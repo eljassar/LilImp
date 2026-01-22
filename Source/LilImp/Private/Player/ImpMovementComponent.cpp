@@ -1,7 +1,7 @@
 // Jassar alotaibi | Weaver of worlds | all rights reserved.
 // ImpMovementComponent handles the movement logic for the Imp character.
 
-#include "ImpMovementComponent.h"
+#include "Player/ImpMovementComponent.h"
 
 // Sets default values for this component's properties
 UImpMovementComponent::UImpMovementComponent()
